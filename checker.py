@@ -7,7 +7,7 @@
 import mechanize
 import sys
 
-#cc = sys.argv[1]
+#cc = 4213169306421676[1]
 #ano = sys.argv[2]
 #mes = sys.argv[3]
 #cvv = sys.argv[4]
